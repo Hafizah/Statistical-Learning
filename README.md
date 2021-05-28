@@ -1,2 +1,2 @@
 # Statistical-Learning
-Notes and codes following ISLR book
+Notes and codes -- following ISLR book
